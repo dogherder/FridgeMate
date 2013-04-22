@@ -1,0 +1,25 @@
+FridgeMate Project Description
+
+SUMMARY
+The FridgeMate is an application that allows users to create grocery shopping lists and send orders to grocery delivery services, or send the list to other people through email or a text message.  Future services will include the ability to track nutritional data and food expiration dates.
+
+BACKGROUND
+People often keep a list of grocery items that they need to purchase for their next trip to the grocery store.  Most people will keep the list on a piece of paper, on a post-it note, on a refrigerator with a white board.  The more tech savvy may use mobile apps such as Grocery IQ, Grocery Smart, Out of Milk Shopping List, Our Groceries Shopping List, and apps from FreshDirect, and Peapod.
+
+FridgeMate will also have a grocery shopping list functionality, but also have the ability to integrate the ability to add these grocery items to shopping carts of various delivery services such as FreshDirect, Peapod, or Amazon. 
+
+FUNCTIONS
+Create Shopping Lists.  Users will have the ability to create shopping lists and add any conceivable grocery item.  Items can be as vague as yogurt or as specific as Dannon's Light & Fit Blueberry Yogurt 4 Pack.  Each item on the shopping list will have a checkbox indicating if the item has been purchased or not.
+
+Barcode Scanning.  In addition to interesting grocery items by typing, users can also scan the barcodes to add shopping items to the list.
+
+Shopping List Sharing.  Shopping lists can be shared across family members in a central database so that various shopping items can be purchased by various members.  Lists can either be viewed through the app or through the internet.  Lists can also be emailed or sent via text message.
+
+Integration with Grocery Delivery Services.  The application can store login information for user's various accounts with delivery services such as FreshDirect, Peapod or Amazon.
+
+FUTURE ANTICIPATED FUNCTIONS
+Recommended Items.  FridgeMate can analyze shopping list items and make recommendations on other items to purchase in the future.  Recommendations could be cheaper or more healthy alternatives, or complementary items that are often purchased with past list items.
+
+Nutritional Data Tracking.  Based on items purchased, the application can keep track of nutritional information such as calories, fat, carbohydrate, protein, or sodium intake.  These reports shown over time and measured on a per person basis.  Data could also be shown compared to FDA recommendations.
+
+Food Inventory Tracking.  Users can use FridgeMate to track food inventory and get alerts on when various grocery items are expiring to reduce food waste.
